@@ -1,59 +1,196 @@
-<h1 align="center">
-✨🚀 <span style="color:#00FFAA;">NaufraBot V2</span> 🤖💚
-</h1>
+# 🎮 MINECRAFTBOT
 
-<p align="center">
-  <img src="https://i.postimg.cc/0ygy14nq/20251017-152852.jpg" width="300" alt="NaufraBot V2" />
-</p>
+> *Un bot de WhatsApp potente y divertido para tu comunidad*
 
+<div align="center">
 
----
+[![Node.js](https://img.shields.io/badge/Node.js-v14+-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp)](https://www.whatsapp.com/)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-## 🧠 **¿Qué es NaufraBot V2?**
+**[Características](#-características) • [Instalación](#-instalación) • [Comandos](#-comandos) • [Créditos](#-créditos)**
 
-🔥 **NaufraBot V2** es una versión mejorada del clásico bot de WhatsApp, totalmente optimizado para funcionar 24/7 en cualquier servidor y completamente gratuito en termux, con **más comandos, rendimiento y estabilidad**.
-
-- 🚀 Compatible con la última versión de **Baileys**
-- 💬 Juegos RPG integrados
-- 🧩 100% perzonalizable
-- 📦 Descargas (videos, música, stickers)
-- 🤖 Funciones con IA integradas
-- 🛡️ Protección AntiLink y AntiSpam para tu grupo 
+</div>
 
 ---
 
-# 🔥INSTALACIÓN POR TERMUX.
-* Instala el termux [aqui](https://f-droid.org/repo/com.termux_118.apk)
+## ✨ Descripción
 
-> [!NOTE]
-> Copia los códigos uno por uno, no los pegues todos juntos a la vez.
+MINECRAFTBOT es un bot avanzado y totalmente personalizable para WhatsApp que trae entretenimiento, administración de grupos y un completo sistema de economía. Diseñado para hacer tu comunidad más interactiva y divertida.
 
-```bash
-pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install nodejs -y && pkg install wget -y && pkg install tesseract -y
+---
+
+## 👥 Créditos
+
+<div align="center">
+
+| 🎯 Rol | 👤 Usuario |
+|:---:|:---:|
+| **👑 Creador** | **rudeos** |
+| **⚙️ Contribuidor** | **programer** |
+
+</div>
+
+---
+
+## 🚀 Características Principales
+
+<table>
+<tr>
+<td>
+
+### 🎮 Entretenimiento
+- ✅ Juegos interactivos
+- 🎯 Ruleta y tragaperras
+- 💎 Sistema de minería
+- 🎣 Simulador de pesca
+
+</td>
+<td>
+
+### 👥 Usuarios
+- 📝 Sistema de registro
+- ⭐ Niveles y experiencia
+- 💰 Monedas y economía
+- 🏆 Rankings
+
+</td>
+<td>
+
+### 🛡️ Administración
+- 🔐 Anti-link
+- 🚫 Anti-spam
+- 📢 Anuncios
+- 👮 Gestión de miembros
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🎨 Multimedia
+- 🖼️ Crear stickers
+- 🎵 Descargar música
+- 🎬 Descargar videos
+- 📷 Conversión de formatos
+
+</td>
+<td>
+
+### 📊 Información
+- ℹ️ Panel del bot
+- 📈 Estadísticas
+- ⏱️ Uptime
+- 💾 Uso de memoria
+
+</td>
+<td>
+
+### ⚙️ Más Funciones
+- 🔧 Comandos personalizables
+- 🌙 Modo oscuro
+- 🔔 Notificaciones
+- Y mucho más...
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 Requisitos Previos
+
+```
+✓ Node.js v14 o superior
+✓ npm o yarn instalado
+✓ Una cuenta de WhatsApp
+✓ Conexión a internet estable
 ```
 
-```bash
-termux-setup-storage
-```
+---
+
+## 🔧 Instalación Rápida
+
+### 1️⃣ Clonar el Repositorio
 
 ```bash
-cd /sdcard && git clone https://github.com/NaufraZapp/Naufrabot-base
+git clone https://github.com/juanjosehurtadonaranjo31-svg/MINECRAFTBOT
+cd MINECRAFTBOT
 ```
+
+### 2️⃣ Instalar Dependencias
 
 ```bash
-cd Naufrabot-base
+npm install
 ```
+
+### 3️⃣ Ejecutar el Bot
 
 ```bash
-node index
+npm start
 ```
 
-# 💥CONTÁCTAME💥
+o para desarrollo con reinicio automático:
 
-[![WhatsApp](https://img.shields.io/badge/mi_numero-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51918534156) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
+```bash
+npm run dev
+```
 
-[![WhatsApp](https://img.shields.io/badge/Canal_de_WhatsApp-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vaz3WoQ6RGJPJQcMXQ14) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
+---
 
-[![YouTube](https://img.shields.io/badge/Canal_de_Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@naufrazapp_bots?si=iZbDpSK_pqT9uXiW)
+## 📋 Comandos Principales
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naufraofficial?_t=ZS-90ePBQwysYj&_r=1)
+| Comando | Descripción |
+|---------|------------|
+| `#menu` | Ver menú completo |
+| `#registro` | Registrarse en el bot |
+| `#perfil` | Ver tu perfil |
+| `#jugar` | Acceder a mini-juegos |
+| `#ayuda` | Obtener ayuda |
+
+---
+
+## 🎯 Uso en Grupos
+
+MINECRAFTBOT funciona perfectamente en grupos de WhatsApp. Solo necesitas:
+
+1. Agregar el bot al grupo
+2. Darle permisos de administrador (opcional)
+3. ¡Comenzar a disfrutar! 🎉
+
+---
+
+## 🔒 Seguridad
+
+- 🛡️ Protección contra spam
+- 🔐 Validación de comandos
+- 🚫 Bloqueo de contenido inapropiado
+- 📊 Registro de actividades
+
+---
+
+## 📧 Contacto & Soporte
+
+¿Encontraste un bug? ¿Tienes una sugerencia?
+
+- 📬 **Email**: rudeos@example.com
+- 💬 **WhatsApp**: Contacta directamente
+- 🐛 **Issues**: Reporta en GitHub
+
+---
+
+## 📝 Licencia
+
+Este proyecto está bajo la licencia **MIT**. Siéntete libre de usar, modificar y distribuir.
+
+Creado con ❤️ por **rudeos** y mantenido con dedicación por **programer**.
+
+---
+
+<div align="center">
+
+### ⭐ Si te gusta el proyecto, dale una estrella en GitHub
+
+**¡Gracias por usar MINECRAFTBOT!** 🎮✨
+
+</div>
