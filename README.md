@@ -1,45 +1,65 @@
-# 🎮 MINECRAFTBOT
+# 🎮 MINECRAFTBOT - El Bot de WhatsApp Más Completo
 
-> *Un bot de WhatsApp potente, divertido e interactivo para tu comunidad*
+> *Un bot avanzado, poderoso y entretenido para transformar tu comunidad en WhatsApp*
 
 <div align="center">
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge)
-[![Node.js](https://img.shields.io/badge/Node.js-v14+-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp)](https://www.whatsapp.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![Baileys](https://img.shields.io/badge/Powered%20By-Baileys-000000?style=for-the-badge)](https://github.com/WhiskeySockets/Baileys)
+![Node.js](https://img.shields.io/badge/Node.js-14%2B-green?style=for-the-badge&logo=node.js)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Baileys](https://img.shields.io/badge/Powered%20By-Baileys-000000?style=for-the-badge)
 
----
-
-### 📚 Tabla de Contenido
-- [✨ Descripción](#-descripción)
-- [👥 Créditos](#-créditos)
-- [🚀 Características](#-características-principales)
-- [📦 Requisitos](#-requisitos-previos)
-- [🔧 Instalación](#-instalación-rápida)
-- [📖 Guía de Uso](#-guía-de-uso)
-- [💡 Comandos](#-comandos-principales)
-- [⚙️ Configuración](#-configuración)
-- [🐛 Troubleshooting](#-solución-de-problemas)
-- [🤝 Contribuir](#-cómo-contribuir)
-- [📜 Licencia](#-licencia)
-
----
+**[📚 Contenido](#-tabla-de-contenido) • [🚀 Inicio](#-inicio-rápido) • [💡 Comandos](#-comandos-principales) • [👥 Créditos](#-créditos)**
 
 </div>
 
+---
+
+## 📚 Tabla de Contenido
+
+1. [✨ Descripción](#-descripción)
+2. [🌟 Por qué MINECRAFTBOT](#-por-qué-minecraftbot)
+3. [👥 Créditos](#-créditos)
+4. [🎯 Características](#-características-principales)
+5. [📦 Requisitos](#-requisitos-previos)
+6. [🚀 Inicio Rápido](#-inicio-rápido)
+7. [📖 Guía de Uso](#-guía-de-uso)
+8. [💡 Comandos](#-comandos-principales)
+9. [⚙️ Configuración](#-configuración)
+10. [🐛 Troubleshooting](#-solución-de-problemas)
+11. [🤝 Contribuir](#-cómo-contribuir)
+12. [📞 Soporte](#-contacto--soporte)
+13. [📝 Licencia](#-licencia)
+
+---
+
 ## ✨ Descripción
 
-**MINECRAFTBOT** es un bot avanzado y totalmente personalizable para WhatsApp que transforma tu experiencia en grupos. Con funcionalidades de entretenimiento, administración inteligente y un completo sistema de economía, es perfecto para comunidades, amigos y espacios educativos.
+**MINECRAFTBOT** es un bot revolucionario para WhatsApp que combina entretenimiento, administración inteligente y un completo sistema de economía. Perfecto para comunidades, amigos, equipos de trabajo y espacios educativos que buscan interacción y diversión.
 
-### ¿Por qué elegir MINECRAFTBOT?
+### 🎯 Objetivo
 
-✨ **Completamente Personalizable** - Adaptable a tus necesidades  
-🚀 **Alto Rendimiento** - Optimizado para velocidad  
-🔒 **Seguro** - Validaciones y protecciones integradas  
-📱 **Fácil de Usar** - Interfaz intuitiva y comandos simples  
-🎮 **Entretenido** - Juegos y dinámicas para tu comunidad  
+Transformar grupos de WhatsApp ordinarios en comunidades vibrantes, interactivas y divertidas donde los usuarios puedan jugar, competir, ganar recompensas y disfrutar de herramientas útiles.
+
+---
+
+## 🌟 Por qué MINECRAFTBOT
+
+<div align="center">
+
+| 🎯 Ventaja | 📝 Descripción |
+|:---:|:---|
+| ⚡ **Rápido** | Respuestas en menos de 100ms |
+| 🔒 **Seguro** | Validaciones y protecciones integradas |
+| 🎮 **Divertido** | +8 juegos emocionantes |
+| 🛠️ **Completo** | 50+ comandos útiles |
+| 📊 **Inteligente** | Sistema de economía avanzado |
+| 🌍 **Versátil** | Funciona en cualquier grupo |
+| 💻 **Personalizable** | Adapta a tus necesidades |
+| 🆓 **Gratuito** | Código abierto y libre |
+
+</div>
 
 ---
 
@@ -47,132 +67,151 @@
 
 <div align="center">
 
-### El Equipo Detrás de MINECRAFTBOT
+### 🏆 Equipo Detrás de MINECRAFTBOT
 
-| 🎯 Rol | 👤 Usuario | 🌟 Aporte |
-|:---:|:---:|:---:|
-| **👑 Creador Principal** | **rudeos** | Diseño y arquitectura |
-| **⚙️ Contribuidor** | **programer** | Desarrollo y mejoras |
+| 👑 Rol | 🎯 Persona | 🌟 Contribución |
+|:---:|:---:|:---|
+| **Creador Principal** | **rudeos** | 🎨 Diseño, Arquitectura y Concepto |
+| **Desarrollador** | **programer** | 💻 Código, Features y Optimizaciones |
 
-> Creado con ❤️ y dedicación para la comunidad
+> *Desarrollado con ❤️ para la comunidad*
 
 </div>
 
 ---
 
-## 🚀 Características Principales
+## 🎯 Características Principales
 
-### 🎮 Entretenimiento Completo
+### 🎮 Entretenimiento Ilimitado
 
 ```
-┌─────────────────────────────────────┐
-│      🎮 JUEGOS EMOCIONANTES 🎮      │
-├─────────────────────────────────────┤
-│ ✨ Ruleta                          │
-│ 🎰 Tragaperras                     │
-│ ⛏️ Sistema de Minería              │
-│ 🎣 Simulador de Pesca              │
-│ 🎯 Retos Diarios                   │
-│ 💎 Casino                          │
-│ 🏆 Competencias                    │
-└─────────────────────────────────────┘
+╔════════════════════════════════════════╗
+║         🎮 JUEGOS DISPONIBLES 🎮       ║
+╠════════════════════════════════════════╣
+║  🎰 Ruleta de la Fortuna              ║
+║  🎲 Tragaperras                       ║
+║  ⛏️ Sistema de Minería                ║
+║  🎣 Simulador de Pesca                ║
+║  💎 Casino                            ║
+║  🎯 Retos Diarios                     ║
+║  🏆 Competencias                      ║
+║  🎁 Loterías                          ║
+╚════════════════════════════════════════╝
 ```
 
 ### 👥 Sistema de Usuarios Avanzado
 
-- 📝 **Registro Automático** - Fácil y rápido
-- ⭐ **Niveles Progresivos** - Sube de nivel jugando
-- 💰 **Monedas Virtuales** - Gana y gasta dinero
-- 📊 **Estadísticas** - Mira tu progreso
-- 🏆 **Rankings** - Compite con otros
+- 📝 **Registro Automático** - En segundos
+- ⭐ **Niveles Progresivos** - Sube mientras juegas
+- 💰 **Monedas Virtuales** - Gana dinero
+- 📊 **Estadísticas Detalladas** - Mira tu progreso
+- 🏆 **Rankings Dinámicos** - Compite globalmente
+- 🎖️ **Insignias y Logros** - Colecciona premios
 
 ### 🛡️ Administración Inteligente
 
 ```
-┌──────────────────────────────────┐
-│   🔐 PROTECCIONES AVANZADAS 🔐   │
-├──────────────────────────────────┤
-│ 🚫 Anti-link                     │
-│ 🚫 Anti-spam                     │
-│ 🚫 Anti-fake                     │
-│ 📢 Anuncios personalizados        │
-│ 👮 Gestión de miembros           │
-│ 🔔 Notificaciones inteligentes    │
-│ ⏰ Temporizadores                 │
-└──────────────────────────────────┘
+╔════════════════════════════════════════╗
+║      🔐 PROTECCIONES AVANZADAS 🔐     ║
+╠════════════════════════════════════════╣
+║  🚫 Anti-link automático              ║
+║  🚫 Anti-spam inteligente             ║
+║  🚫 Anti-fake/bots                    ║
+║  📢 Anuncios personalizados           ║
+║  👮 Gestión de miembros               ║
+║  🔔 Notificaciones inteligentes       ║
+║  ⏰ Temporizadores                    ║
+║  📋 Bienvenidas automáticas           ║
+╚════════════════════════════════════════╝
 ```
 
-### 🎨 Herramientas Multimedia
+### 🎨 Herramientas Multimedia Profesionales
 
-- 🖼️ **Crear Stickers** - Convierte imágenes a stickers
-- 🎵 **Descargar Música** - Obtén canciones directamente
-- 🎬 **Descargar Videos** - Descarga desde múltiples plataformas
-- 📷 **Conversión de Formatos** - Convierte entre tipos de archivo
-- 🎭 **Efectos Especiales** - Personaliza tus contenidos
+- 🖼️ **Crear Stickers** - De cualquier imagen
+- 🎵 **Descargar Música** - YouTube, Spotify y más
+- 🎬 **Descargar Videos** - Multi-plataforma
+- 📷 **Conversión de Formatos** - Entre tipos de archivo
+- 🎭 **Efectos y Filtros** - Personaliza tu contenido
 
-### 📊 Panel Informativo
+### 📊 Panel de Control Completo
 
-- ℹ️ **Info del Bot** - Detalles técnicos
-- 📈 **Estadísticas en Tiempo Real** - Datos actualizados
-- ⏱️ **Tiempo en Línea** - Uptime del bot
-- 💾 **Monitoreo de Recursos** - Uso de memoria y CPU
-- 📉 **Gráficas** - Visualiza datos importantes
+- ℹ️ **Información del Bot** - Datos técnicos
+- 📈 **Estadísticas en Vivo** - Actualizadas constantemente
+- ⏱️ **Monitoreo de Uptime** - Tiempo en línea
+- 💾 **Uso de Recursos** - Memoria y CPU
+- 🎯 **Métricas de Desempeño** - Latencia y velocidad
 
 ---
 
 ## 📦 Requisitos Previos
 
-Antes de instalar, asegúrate de tener:
-
-```
-✅ Node.js v14 o superior    [Descarga aquí](https://nodejs.org/)
-✅ npm o yarn instalado      [Incluido en Node.js]
-✅ Una cuenta de WhatsApp    [WhatsApp Business o personal]
-✅ Conexión a internet       [Estable y rápida]
-✅ Terminal/CMD              [Windows, Mac o Linux]
-```
-
-### Verificar Instalación
+Antes de comenzar, asegúrate de tener instalado:
 
 ```bash
-node --version      # Debe mostrar v14 o superior
-npm --version       # Debe mostrar una versión válida
+✅ Node.js v14 o superior       → Descarga en https://nodejs.org/
+✅ npm o yarn                   → Viene con Node.js
+✅ Git (opcional)               → Para clonar el repositorio
+✅ Cuenta de WhatsApp           → Personal o Business
+✅ Conexión a internet estable  → Importante
+```
+
+### 🔍 Verificar tu Sistema
+
+```bash
+# Comprueba las versiones instaladas
+node --version              # Debe ser v14 o superior
+npm --version               # Debe mostrar una versión válida
+git --version               # Opcional
 ```
 
 ---
 
-## 🔧 Instalación Rápida
+## 🚀 Inicio Rápido
 
-### Opción 1️⃣: Instalación Manual
-
-#### Paso 1: Clonar el Repositorio
+### 📥 Paso 1: Clonar el Repositorio
 
 ```bash
+# Si tienes Git instalado
 git clone https://github.com/juanjosehurtadonaranjo31-svg/MINECRAFTBOT
 cd MINECRAFTBOT
+
+# O descarga el ZIP desde GitHub
+# Luego descomprime y entra en la carpeta
+cd MINECRAFTBOT-main
 ```
 
-#### Paso 2: Instalar Dependencias
+### 📦 Paso 2: Instalar Dependencias
 
 ```bash
 npm install
+# Espera a que se complete la instalación (puede tomar unos minutos)
 ```
 
-#### Paso 3: Ejecutar el Bot
+### 🔐 Paso 3: Autenticar WhatsApp
 
 ```bash
 npm start
+# Se abrirá una ventana terminal con un código QR
 ```
 
-#### Paso 4: Autenticar WhatsApp
+**Importante:** Abre WhatsApp en tu teléfono:
+1. Ve a **⋮ Más** → **Dispositivos vinculados**
+2. Selecciona **Vincular dispositivo**
+3. **Escanea el código QR** que aparece en la terminal
+4. ¡Listo! El bot se conectará automáticamente
 
-Cuando ejecutes el bot, verás un código QR. Abre WhatsApp, ve a:
-- **Más opciones** → **Dispositivos vinculados** → **Vincular un dispositivo**
-- Escanea el código QR mostrado en la terminal
+### 🎮 Paso 4: ¡Comienza a Usar!
 
-### Opción 2️⃣: Desarrollo con Hot Reload
+```bash
+# En cualquier chat de WhatsApp, escribe:
+#menu              # Ver todos los comandos
+#registro          # Registrarte
+#perfil            # Ver tu perfil
+```
 
-Para desarrollo continuo con reinicio automático:
+### 🔄 Opción: Modo Desarrollo
+
+Para desarrollo con reinicio automático al cambiar archivos:
 
 ```bash
 npm run dev
@@ -182,411 +221,322 @@ npm run dev
 
 ## 📖 Guía de Uso
 
-### Primeros Pasos
+### 🎯 Primeros Pasos
 
-1. **Registrarse**
-   ```
-   Escribe: #registro
-   Sigue los pasos indicados
-   ```
+#### 1️⃣ Registrarse
 
-2. **Ver tu Perfil**
-   ```
-   Escribe: #perfil
-   Visualiza tus estadísticas
-   ```
+```
+Escribe en WhatsApp: #registro
+Sigue las instrucciones del bot
+¡Ya estás listo!
+```
 
-3. **Explorar el Menú**
-   ```
-   Escribe: #menu
-   Accede a todas las funciones
-   ```
+#### 2️⃣ Ver tu Perfil
 
-### Uso en Grupos
+```
+Escribe: #perfil
+Visualiza tu nivel, dinero y estadísticas
+```
 
-1. Agrega el bot al grupo
-2. Escribe `#menu` para ver opciones
-3. Los usuarios pueden registrarse y comenzar a jugar
-4. Los admins pueden activar protecciones
+#### 3️⃣ Explorar Funciones
+
+```
+Escribe: #menu
+Accede a todas las características del bot
+```
+
+### 👥 Usar en Grupos
+
+1. **Agrega el bot al grupo** desde WhatsApp
+2. **Escribe #menu** para ver opciones
+3. **Invita a otros** a registrarse y jugar
+4. **Los admins pueden** activar protecciones
+
+### 💡 Consejos Útiles
+
+- 📝 Todos los comandos comienzan con `#`
+- 🎮 Algunos comandos solo funcionan en grupos
+- 👑 Ciertos comandos requieren ser administrador
+- 💰 Gana dinero jugando y compite con otros
 
 ---
 
 ## 💡 Comandos Principales
 
-### 🎮 Entretenimiento
+### 🎮 Juegos y Entretenimiento
 
 | Comando | Descripción | Ejemplo |
-|---------|------------|---------|
+|:---:|:---|:---|
 | `#jugar` | Accede a todos los juegos | `#jugar` |
 | `#ruleta` | Juega a la ruleta | `#ruleta 100` |
 | `#tragaperras` | Juega tragaperras | `#tragaperras 50` |
-| `#minar` | Sistema de minería | `#minar` |
+| `#minar` | Minería de recursos | `#minar` |
 | `#pesca` | Simulador de pesca | `#pesca` |
+| `#casino` | Apuestas en casino | `#casino 200` |
+| `#daily` | Recompensa diaria | `#daily` |
 
 ### 👤 Perfil y Economía
 
 | Comando | Descripción | Ejemplo |
-|---------|------------|---------|
-| `#registro` | Registrarse | `#registro` |
-| `#perfil` | Ver tu perfil | `#perfil` |
-| `#transferir` | Enviar monedas | `#transferir @usuario 100` |
-| `#ranking` | Ver rankings | `#ranking` |
-| `#daily` | Recompensa diaria | `#daily` |
+|:---:|:---|:---|
+| `#registro` | Registrarte en el bot | `#registro` |
+| `#perfil` | Ver tu perfil completo | `#perfil` |
+| `#balance` | Ver tu dinero | `#balance` |
+| `#transferir` | Enviar dinero a alguien | `#transferir @user 100` |
+| `#ranking` | Ver tabla de posiciones | `#ranking` |
+| `#logros` | Ver tus insignias | `#logros` |
 
-### 🛠️ Administración
+### 🛠️ Administración (Solo Admins)
 
-| Comando | Descripción | Solo Admins |
-|---------|------------|:---:|
-| `#kick @usuario` | Expulsar usuario | ✅ |
-| `#ban @usuario` | Banear usuario | ✅ |
-| `#antilink on/off` | Activar anti-link | ✅ |
-| `#anuncio` | Hacer anuncio | ✅ |
-| `#welcome on/off` | Bienvenida automática | ✅ |
+| Comando | Descripción | Requisito |
+|:---:|:---|:---:|
+| `#kick @usuario` | Expulsar del grupo | Admin |
+| `#ban @usuario` | Banear usuario | Admin |
+| `#antilink on` | Activar anti-link | Admin |
+| `#antilink off` | Desactivar anti-link | Admin |
+| `#anuncio` | Hacer anuncio al grupo | Admin |
+| `#welcome on` | Bienvenida automática | Admin |
+| `#modoadmin on` | Solo admins escriben | Admin |
 
 ### 🔧 Utilidades
 
 | Comando | Descripción |
-|---------|------------|
-| `#menu` | Ver menú completo |
+|:---:|:---|
+| `#menu` | Menú completo del bot |
 | `#ayuda` | Obtener ayuda |
 | `#ping` | Latencia del bot |
 | `#infobot` | Información del bot |
-| `#sticker` | Crear sticker |
+| `#sticker` | Crear sticker desde imagen |
+
+### 🎨 Multimedia
+
+| Comando | Descripción |
+|:---:|:---|
+| `#descargar` | Descargar video de URL |
+| `#música` | Descargar música |
+| `#convertir` | Convertir formato de archivo |
 
 ---
 
 ## ⚙️ Configuración
 
-### Configurar el Bot
+### 📝 Archivo de Configuración
 
-Edita el archivo `settings.json`:
+Edita `settings.json` para personalizar el bot:
 
 ```json
 {
-  "creador": "TU_NUMERO",
-  "owner": "TU_NUMERO",
+  "creador": "TU_NUMERO_WHATSAPP",
+  "owner": "TU_NUMERO_WHATSAPP",
   "Bot": "NombreDelBot",
-  "JpgBot": "URL_IMAGEN",
-  "API_KEY_NAUFRA": "TU_API_KEY"
+  "JpgBot": "URL_DE_IMAGEN",
+  "API_KEY_NAUFRA": "TU_API_KEY_AQUI"
 }
 ```
 
-### Variables Importantes
+### 🔑 Variables Importantes
 
-```bash
-# Owner del bot
-owner = "TU_NUMERO_WHATSAPP"
+```javascript
+// Prefijos del bot (puedes usar cualquiera)
+prefixo = ['#', '/', '.', '!', '?', '*']
 
-# Prefijos permitidos
-prefixo = ['#', '/', '.', '!', '?']
+// Número de propietario
+owner = "1234567890@s.whatsapp.net"
 
-# Modo debug
-debug = true/false
+// Modo debug (true para ver logs)
+debug = true
+```
+
+### 🗂️ Estructura de Carpetas
+
+```
+MINECRAFTBOT/
+├── index.js                  # Archivo principal
+├── package.json              # Dependencias
+├── settings.json             # Configuración
+├── README.md                 # Este archivo
+├── settings/                 # Configuraciones
+│   ├── settings.json
+│   ├── Bot/
+│   │   └── Js/menu.js
+│   └── Grupo/
+│       └── Json/
+├── Games/                    # Sistema de juegos
+├── fuction/                  # Funciones auxiliares
+└── session.data.json         # Sesión WhatsApp
 ```
 
 ---
 
 ## 🐛 Solución de Problemas
 
-### ❌ Error: "Cannot find module"
+### ❌ Error: "Cannot find module 'baileys'"
 
+**Solución:**
 ```bash
-# Solución: Reinstala dependencias
 rm -rf node_modules package-lock.json
 npm install
 ```
 
-### ❌ El bot no responde
+### ❌ El bot no responde a comandos
 
-- Verifica tu conexión a internet
-- Asegúrate que el QR fue escaneado correctamente
-- Revisa la consola para errores
+**Verificar:**
+- ✅ ¿Está escaneado el código QR?
+- ✅ ¿Escribes con el prefijo correcto? (#menu no /menu)
+- ✅ ¿Estás registrado? (#registro)
+- ✅ ¿Hay conexión a internet?
 
-### ❌ Comando no funciona
-
-- Verifica el prefijo correcto (`#menu` no `/menu`)
-- Asegúrate de estar registrado (`#registro`)
-- Comprueba permisos si es un comando de admin
-
-### ❌ Error de autenticación
-
+**Solución:**
 ```bash
-# Solución: Elimina la sesión y genera nueva
+# Reinicia completamente el bot
+npm start
+```
+
+### ❌ Error de autenticación QR
+
+**Solución:**
+```bash
+# Elimina la sesión anterior
 rm -rf session.data.json
+# Inicia de nuevo
 npm start
 # Escanea el nuevo QR
+```
+
+### ❌ El comando no funciona en grupo
+
+**Verificar:**
+- ✅ ¿Es un comando que solo funciona en privado?
+- ✅ ¿Tienes permisos en el grupo?
+- ✅ ¿Está activado el bot para ese grupo?
+
+### ❌ Errores de dependencias
+
+```bash
+npm install --legacy-peer-deps
+npm start
 ```
 
 ---
 
 ## 🤝 Cómo Contribuir
 
-¡Nos encantaría tu ayuda! Aquí hay formas de contribuir:
+¡Nos encanta recibir contribuciones! Aquí cómo puedes ayudar:
 
-### 1. Reportar Bugs 🐛
+### 🐛 Reportar un Bug
 
-Si encontraste un error:
-- Describe el problema claramente
-- Incluye pasos para reproducirlo
-- Manda captura de pantalla si aplica
+1. Abre un [Issue en GitHub](https://github.com/juanjosehurtadonaranjo31-svg/MINECRAFTBOT/issues)
+2. Describe el problema claramente
+3. Incluye pasos para reproducirlo
+4. Adjunta capturas si es posible
 
-### 2. Sugerir Features ✨
+### ✨ Sugerir una Feature
 
-¿Tienes una idea? 
-- Crea un issue con el tag `enhancement`
-- Describe la funcionalidad deseada
-- Explica por qué sería útil
+1. Crea un Issue con etiqueta `enhancement`
+2. Explica la funcionalidad deseada
+3. Describe por qué sería útil
+4. Sugiere cómo implementarla
 
-### 3. Mejorar Código 💻
+### 💻 Mejorar el Código
 
-- Haz fork del proyecto
-- Crea una rama: `git checkout -b feature/MiMejora`
-- Commit: `git commit -m 'Agrega MiMejora'`
-- Push: `git push origin feature/MiMejora`
-- Abre un Pull Request
+```bash
+# 1. Haz un fork del proyecto
+# 2. Clona tu fork
+git clone https://github.com/TU_USUARIO/MINECRAFTBOT.git
+
+# 3. Crea una rama para tu feature
+git checkout -b feature/MiMejora
+
+# 4. Realiza cambios y haz commit
+git commit -m "Agrega MiMejora"
+
+# 5. Sube tu rama
+git push origin feature/MiMejora
+
+# 6. Abre un Pull Request en GitHub
+```
 
 ---
 
 ## 📞 Contacto & Soporte
 
-### Necesitas Ayuda?
+### 📧 Donde Obtener Ayuda
 
-| Vía | Contacto |
-|-----|----------|
-| 📧 **Email** | rudeos@example.com |
-| 💬 **WhatsApp** | Contacta directamente |
-| 🐛 **Issues** | [GitHub Issues](https://github.com/juanjosehurtadonaranjo31-svg/MINECRAFTBOT/issues) |
-| 📱 **Comunidad** | Únete a nuestro grupo |
+| Medio | Contacto |
+|:---:|:---|
+| **Email** | rudeos@example.com |
+| **WhatsApp** | Contacta directamente al creador |
+| **GitHub Issues** | [Abre un Issue](https://github.com/juanjosehurtadonaranjo31-svg/MINECRAFTBOT/issues) |
+| **Comunidad** | Únete a nuestro grupo WhatsApp |
+
+### 💬 Preguntas Frecuentes
+
+**P: ¿Es gratis?**  
+R: Sí, completamente gratis y de código abierto
+
+**P: ¿Funciona en cualquier grupo?**  
+R: Sí, en cualquier grupo de WhatsApp
+
+**P: ¿Es seguro?**  
+R: Sí, usa Baileys que es la librería oficial
+
+**P: ¿Puedo modificarlo?**  
+R: Claro, es software libre bajo licencia MIT
 
 ---
 
 ## 📊 Estadísticas
 
 ```
-📈 Usuarios Activos: 1000+
-🎮 Juegos Disponibles: 8+
-⚙️ Comandos: 50+
-🔧 Funciones: 100+
-⏱️ Tiempo de respuesta: <100ms
+📈 Estado del Proyecto
+├─ 1000+ Usuarios Activos
+├─ 8+ Juegos Disponibles
+├─ 50+ Comandos Funcionales
+├─ 100+ Funciones Integradas
+└─ <100ms Tiempo de Respuesta
 ```
 
 ---
 
-## 🔮 Roadmap (Lo que viene)
+##  Licencia
 
-- [ ] 🌐 Soporte multiidioma
-- [ ] 🎨 Temas personalizables
-- [ ] 📊 Dashboard web
-- [ ] 🔐 Autenticación 2FA
-- [ ] 🚀 Optimizaciones de velocidad
-- [ ] 🤖 IA integrada
-- [ ] 📱 Aplicación móvil
-- [ ] 🌟 Más juegos
+Este proyecto está bajo licencia **MIT** - ¡completamente gratis y abierto!
 
----
+### Puedes:
+✅ Usar comercialmente  
+✅ Modificar el código  
+✅ Distribuir libremente  
+✅ Usar privadamente  
 
-## 📝 Licencia
-
-Este proyecto está bajo la licencia **MIT**.
-
-**Esto significa que puedes:**
-- ✅ Usar comercialmente
-- ✅ Modificar el código
-- ✅ Distribuir libremente
-- ✅ Usar privadamente
-
-**Con la condición de:**
-- ℹ️ Incluir la licencia original
+### Debes:
+ℹ️ Incluir la licencia original  
+ℹ️ Mencionar los cambios realizados  
 
 ---
 
 <div align="center">
 
-## 🌟 ¡Dale una Estrella Si Te Gusta!
+## 🌟 ¡Apoya el Proyecto!
 
-Si este proyecto te fue útil, considera darle una ⭐ en GitHub. ¡Nos motiva a seguir mejorando!
+Si MINECRAFTBOT te fue útil, **dale una ⭐ en GitHub**  
+¡Eso nos motiva a seguir mejorando!
 
-### Creado con ❤️ por **rudeos** y **programer**
+---
+
+### 👨‍💻 Desarrollado por
+
+| | |
+|:---:|:---|
+| **👑 rudeos** | Creador y diseñador principal |
+| **💻 programer** | Desarrollador y mantenedor |
+
+---
 
 **¡Gracias por usar MINECRAFTBOT!** 🎮✨
 
-*Última actualización: Diciembre 2025*
+*Última actualización: Diciembre 2025*  
+*Versión: 1.0.0*
 
 </div>
 
----
 
-## 👥 Créditos
-
-<div align="center">
-
-| 🎯 Rol | 👤 Usuario |
-|:---:|:---:|
-| **👑 Creador** | **rudeos** |
-| **⚙️ Contribuidor** | **programer** |
-
-</div>
-
----
-
-## 🚀 Características Principales
-
-<table>
-<tr>
-<td>
-
-### 🎮 Entretenimiento
-- ✅ Juegos interactivos
-- 🎯 Ruleta y tragaperras
-- 💎 Sistema de minería
-- 🎣 Simulador de pesca
-
-</td>
-<td>
-
-### 👥 Usuarios
-- 📝 Sistema de registro
-- ⭐ Niveles y experiencia
-- 💰 Monedas y economía
-- 🏆 Rankings
-
-</td>
-<td>
-
-### 🛡️ Administración
-- 🔐 Anti-link
-- 🚫 Anti-spam
-- 📢 Anuncios
-- 👮 Gestión de miembros
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🎨 Multimedia
-- 🖼️ Crear stickers
-- 🎵 Descargar música
-- 🎬 Descargar videos
-- 📷 Conversión de formatos
-
-</td>
-<td>
-
-### 📊 Información
-- ℹ️ Panel del bot
-- 📈 Estadísticas
-- ⏱️ Uptime
-- 💾 Uso de memoria
-
-</td>
-<td>
-
-### ⚙️ Más Funciones
-- 🔧 Comandos personalizables
-- 🌙 Modo oscuro
-- 🔔 Notificaciones
-- Y mucho más...
-
-</td>
-</tr>
-</table>
-
----
-
-## 📦 Requisitos Previos
-
-```
-✓ Node.js v14 o superior
-✓ npm o yarn instalado
-✓ Una cuenta de WhatsApp
-✓ Conexión a internet estable
-```
-
----
-
-## 🔧 Instalación Rápida
-
-### 1️⃣ Clonar el Repositorio
-
-```bash
-git clone https://github.com/juanjosehurtadonaranjo31-svg/MINECRAFTBOT
-cd MINECRAFTBOT
-```
-
-### 2️⃣ Instalar Dependencias
-
-```bash
-npm install
-```
-
-### 3️⃣ Ejecutar el Bot
-
-```bash
-npm start
-```
-
-o para desarrollo con reinicio automático:
-
-```bash
-npm run dev
-```
-
----
-
-## 📋 Comandos Principales
-
-| Comando | Descripción |
-|---------|------------|
-| `#menu` | Ver menú completo |
-| `#registro` | Registrarse en el bot |
-| `#perfil` | Ver tu perfil |
-| `#jugar` | Acceder a mini-juegos |
-| `#ayuda` | Obtener ayuda |
-
----
-
-## 🎯 Uso en Grupos
-
-MINECRAFTBOT funciona perfectamente en grupos de WhatsApp. Solo necesitas:
-
-1. Agregar el bot al grupo
-2. Darle permisos de administrador (opcional)
-3. ¡Comenzar a disfrutar! 🎉
-
----
-
-## 🔒 Seguridad
-
-- 🛡️ Protección contra spam
-- 🔐 Validación de comandos
-- 🚫 Bloqueo de contenido inapropiado
-- 📊 Registro de actividades
-
----
-
-## 📧 Contacto & Soporte
-
-¿Encontraste un bug? ¿Tienes una sugerencia?
-
-- 📬 **Email**: rudeos@example.com
-- 💬 **WhatsApp**: Contacta directamente
-- 🐛 **Issues**: Reporta en GitHub
-
----
-
-## 📝 Licencia
-
-Este proyecto está bajo la licencia **MIT**. Siéntete libre de usar, modificar y distribuir.
-
-Creado con ❤️ por **rudeos** y mantenido con dedicación por **programer**.
-
----
-
-<div align="center">
-
-### ⭐ Si te gusta el proyecto, dale una estrella en GitHub
-
-**¡Gracias por usar MINECRAFTBOT!** 🎮✨
-
-</div>
