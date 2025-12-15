@@ -1,4 +1,3 @@
-
 //Modulos
 const { default: makeWASocket,
   DisconnectReason, JulsBotIncConnect, getAggregateVotesInPollMessage, delay, makeCacheableSignalKeyStore, useMultiFileAuthState,
@@ -755,6 +754,11 @@ const protecciones = `
 *[🛠️] ᴊᴜᴇɢᴏs*
 *[🛠️] ᴄᴏᴍᴀɴᴅᴏs +🔞*
 `;
+enviar(botinfo + '\n' + protecciones);
+}
+break;
+}
+
 switch (comando) {
 
 case 'serbot':
@@ -1960,9 +1964,9 @@ if (isGroup && isAntiLink && !isGroupAdmins && !isOwner) {
   }
 }
 
+break;
+}
 
-
-    
    if (budy.startsWith('=>Duueño')) {
     if (!isOwner) return enviar(respuesta.miowner)
         function Return(sul) {
@@ -1980,23 +1984,19 @@ if (isGroup && isAntiLink && !isGroupAdmins && !isOwner) {
 } catch (e) {
     enviar(String(e));
 }
+ 
+ }   
+ 
 
+} catch (e) {
  e = String(e)
 if (!e.includes("this.isZero") && !e.includes("Could not find MIME for Buffer <null>") && !e.includes("Cannot read property 'conversation' of null") && !e.includes("Cannot read property 'contextInfo' of undefined") && !e.includes("Cannot set property 'mtype' of undefined") && !e.includes("jid is not defined")) {
 console.log('Error : %s', color(e, 'red'))
 }
- 
- }   
- 
- 
- 
- 
- 
- 
-       }) 
+}
 
+}) 
 
-    
 }
 ///////////MODIFIC INDEX 
 startProo()
@@ -2006,4 +2006,5 @@ console.log(color('  [❗] El archivo Index fue modificada',"blue"));
 process.exit()
 }
 })
+
 
